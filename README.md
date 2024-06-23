@@ -20,7 +20,7 @@ At any given time (episode), an agent abserves it's current state (n-day window 
 
 ## Results
 
-Trained on `GOOG` 2010-17 stock data, tested on 2019 with a profit of $1141.45 :
+Trained on `GOOG` 2010-17 stock data, tested on 2019 with a profit of $1141.45 with a model accuracy of 89.98% :
 
 ![Google Stock Trading episode](./extra/visualization.png)
 
